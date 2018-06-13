@@ -1,4 +1,8 @@
 # MySQLtoMongo-ETL
+
+Coursework-1 PDF is a report of the entire coursework (discusses design choices, explains the code etc.)
+
+Steps to run :
 ETL of data from MySQL database to a NOSQL database(MongoDB)
 Steps to run
 1-      Start XAMPP and  run MySQL(https://www.apachefriends.org/download.html)
